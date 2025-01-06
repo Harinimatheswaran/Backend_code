@@ -58,7 +58,7 @@
                                     import dotenv from "dotenv";
                                     import mongoose from "mongoose";
                                     import bodyParser from "body-parser";
-                                    import router from "./Routes/userRoute.js";
+                                    import router from "./routes/userroute.js";
                                     import cors from "cors"
                                     const app=express();
                                     
